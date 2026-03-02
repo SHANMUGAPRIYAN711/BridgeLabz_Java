@@ -1,23 +1,25 @@
 package arrays.level2;
-
 import java.util.Scanner;
 
-public class StudentGrades2D {
-    public static void main(String[] args) {
-
+public class StudentGrade {
+    static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        System.out.println("Enter marks :");
-        int[][] marks = new int[n][3];
+        System.out.println("Enter Physics Marks :");
+        int[] physics = new int[n];
+        System.out.println("Enter Chemistry marks : ");
+        int[] chemistry = new int[n];
+        System.out.println("Enter Maths marks :");
+        int[] maths = new int[n];
         double[] percent = new double[n];
         char[] grade = new char[n];
 
         for (int i = 0; i < n; i++) {
-            marks[i][0] = sc.nextInt();
-            marks[i][1] = sc.nextInt();
-            marks[i][2] = sc.nextInt();
+            physics[i] = sc.nextInt();
+            chemistry[i] = sc.nextInt();
+            maths[i] = sc.nextInt();
 
-            percent[i] = (marks[i][0] + marks[i][1] + marks[i][2]) / 3.0;
+            percent[i] = (physics[i] + chemistry[i] + maths[i]) / 3.0;
 
             if (percent[i] >= 80) grade[i] = 'A';
             else if (percent[i] >= 70) grade[i] = 'B';
