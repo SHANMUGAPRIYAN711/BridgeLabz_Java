@@ -44,6 +44,7 @@ public class GroceryStoreSystem {
         BillGenerator bill = new BillGenerator();
         double totalbill = bill.generateBill(customer);
         System.out.println("Customer Name : " + customer.name);
-        System.out.println("Total Bill : " + totalbill);git
+        System.out.println("Total Bill : " + totalbill);
     }
 }
+
