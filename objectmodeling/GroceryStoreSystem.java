@@ -43,7 +43,7 @@ public class GroceryStoreSystem {
         customer.addProducts(p2);
         BillGenerator bill = new BillGenerator();
         double totalbill = bill.generateBill(customer);
-        System.out.println("Customer Name : " + customer.name);git
+        System.out.println("Customer Name : " + customer.name);
         System.out.println("Total Bill : " + totalbill);
     }
 }
