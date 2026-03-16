@@ -1,5 +1,7 @@
 package BridgeLabz_Java.linkedlist;
 
+import java.util.Deque;
+
 class Ticket{
 
     int id;
@@ -59,7 +61,6 @@ public class TicketReservation{
 
         ts.book(1,"Arun","Avengers");
         ts.book(2,"Priya","Avatar");
-
         ts.display();
     }
 }
