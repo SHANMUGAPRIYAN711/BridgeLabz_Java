@@ -8,6 +8,29 @@
 - **26-Feb-2026 (Thu):** Solved Java Method Problem Level 1-3 and learned about operators
 - **27-Feb-2026 (Fri):** Solved String Problem Level 1 and learned about string, stringBuffer and string Builder
 - **28-Feb-2026 (Sat):** Solved String Problem level3 and revised all String Concepts
-- **02-Feb-2026 (Mon):** Solved Java Array Problem Level 3 and learned about 1D and 2D arrays
-- **03-Feb-2026 (Tue):** Solved Java Class and Object Problems level1 & level2
-- **04-Feb-2026 (Wed):** Solved Java Constructor and Access Modifier level1 problems
+- **01-Mar-2026 (Mon):** Solved Java Array Problem Level 3 and learned about 1D and 2D arrays
+- **02-Mar-2026 (Tue):** Solved Java Class and Object Problems level1 & level2
+- **03-Mar-2026 (Tue):** Solved Java Constructor and Access Modifier level1 problems
+- **04-Mar-2026 (Wed):** Solved Java Keywords Problem and learned about this, static, final keyword and concepts of instanceof operator
+- **05-Mar-2026 (Thu):** Learned about different types of inheritance like single,multilevel, hierarchical and hybrid inheritance and completed the inheritance assignment
+- **06-Mar-2026 (Fri):** Learned Encapsulation and abstraction and practiced class extension and about Interface
+- **07-Mar-2026 (Sat):** Learned and Solved Problems on Polymorphism(Method overloading , Method overriding)
+- **09-Mar-2026 (Mon):** Solved Learned Inheritance and its types
+- **10-Mar-2026 (Tue):** Solved Problems on Inheritance(Single, Multi level, Hierarchical, Hybrid Inheritance)
+- **11-Mar-2026 (Wed):** Learned Class Diagram , Object Diagrams, Sequence Diagram 
+- **12-Mar-2026 (Thu):** Learned and Solved Problems on Object Oriented Design Principles
+- **13-Mar-2026 (Fri):** Learned LinkedList(Single , Doubly, Circular Linked list) and Solved Problems
+- **14-Mar-2026 (Sat):** Learned Stack, Queue, Hashing Function and Internal Working
+- **16-Mar-2026 (Mon):** Solved Problems on Stack, Queue and HashMap
+- **17-Mar-2026 (Tue):** Learned Sorting Algorithms(Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort)
+- **18-Mar-2026 (Wed):** Solved Problems on Sorting Algorithms
+- **19-Mar-2026 (Thu):** Learned and Solved Problems on Searching Algorithm(Linear And Binary Search)
+- **20-Mar-2026 (Fri):** Learned and Solved Problems on StringBuffer, StringBuilder, FileReader,InputStreamReader, BufferedReader, BufferedWriter,FileWriter
+- **21-Mar-2026 (Sat):** Learned time and Space complexity topic and Big-O Notation
+- **23-Mar-2026 (Mon):** Learned and Solved Problems on Algorithm Runtime Analysis
+- **24-Mar-2026 (Tue):** Learned List Interface(Class- ArrayList, LinkedList, Vector, Stack)
+- **25-Mar-2026 (Wed):** Learned Set Interface(class -HashSet, LinkedHashSet, TreeSet, Interface-SortedSet, NavigableSet)
+- **26-Mar-2026 (Thu):** Learned Queue Interface and its Child interface and classes(Interface-Queue, Dequeue,BlockingQueue, Class -PiriorityQueue,ArrayQueue)
+- **27-Mar-2026 (Fri):** Learned Map Interface(Class-HashMap, LinkedHashMap, TreeMap, WeakHashMap, HashTable Interface - SortedMap, NavigableMap)
+- **28-Mar-2026 (Sat):** Learned and Solved problems on Regex(Patterns)
+- **30-Mar-2026 (Mon):** Learned and Solved Problems on Exceptions(try,catch,finally, throw, throws)
